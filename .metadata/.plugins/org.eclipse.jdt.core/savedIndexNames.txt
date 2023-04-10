@@ -1,0 +1,1 @@
+INDEX VERSION 1.132+C:\Users\chan\eclipse\eclipse-workspace\DynamicBeat\.metadata\.plugins\org.eclipse.jdt.core
